@@ -1,0 +1,25 @@
+.wrapItem {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 680px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.deleteButton {
+  border: none;
+  background-color: rgb(212, 94, 112);
+  border-radius: 4px;
+  padding: 8px;
+  color: white;
+  font-size: 12px;
+  font-weight: 540px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.deleteButton:hover {
+  background-color: rgb(233, 21, 53);
+}
